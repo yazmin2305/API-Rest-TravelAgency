@@ -1,0 +1,8 @@
+co\unicauca\services\domain\entity\Customer.class
+co\unicauca\services\access\CustomerRepositoryImplArrays.class
+co\unicauca\services\AppConfiguration.class
+co\unicauca\services\resources\JavaEE8Resource.class
+co\unicauca\services\JAXRSConfiguration.class
+co\unicauca\services\presentation\rest\CustomerController.class
+co\unicauca\services\access\ICustomerRepository.class
+co\unicauca\services\domain\service\CustomerService.class
